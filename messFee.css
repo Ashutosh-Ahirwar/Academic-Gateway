@@ -253,6 +253,7 @@ li a:hover {
 h3{
     text-align: left;
     color: #ffffff;
+    display: block;
 }
 
 .grid-container1 {
